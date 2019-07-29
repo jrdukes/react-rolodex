@@ -1,5 +1,15 @@
+
 ## created dj-branch on my forked repo
 editing now. 
+
+# Pull request from Kevin
+
+edit README.md
+
+## created dj-branch on my forked repo
+
+editing now.
+
 doing PR now.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +80,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# pull request from Dominick
+
+edit readme.md via pull request
+
+### Pull request from Anna
+
+Hola.
